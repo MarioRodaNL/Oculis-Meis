@@ -1,8 +1,8 @@
 :root {
-    --color-primaria: #8c8c8c;
-    --color-secundaria: #8e3f3f;
-    --color-terciaria: #22D4FD;
-    --color-hover: #7b0000;
+    --color-primaria: #191d32;
+    --color-secundaria: #8c705f;
+    --color-terciaria: #7ca5b8;
+    --color-hover: #e5f2c9;
 }
 
 * {
@@ -121,3 +121,4 @@ body{
         width: auto;
     }  
 }
+
